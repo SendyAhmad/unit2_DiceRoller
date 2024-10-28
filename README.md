@@ -19,3 +19,5 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+![alt text](https://github.com/revaile/DiceRoller_unit2/blob/master/Cuplikan%20layar%202024-10-25%20234445.png?raw=true)
